@@ -2,11 +2,11 @@
 # 📝 ARQUIVOS ESSENCIAIS
 ## Mestrado em Letras - UFT
 
-**Projeto**: Análise do Discurso
-**Autora**: Wilda Barbosa Noia 
-**Orientador**: Prof. Dr. 
-**Instituição**: Fundação Universidade Federal do Tocantins  - Porto Nacional
-**Programa**: Pós-Graduação em Letras
+- **Projeto**: Análise do Discurso
+- **Autora**: Wilda Barbosa Noia
+- **Orientador**: Prof. Dr.
+- **Instituição**: Fundação Universidade Federal do Tocantins  - Porto Nacional
+- **Programa**: Pós-Graduação em Letras
 
 ## 📁 Estrutura do Projeto
 

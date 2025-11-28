@@ -1,0 +1,20 @@
+# Ignorar configurações do Obsidian
+.obsidian/
+**/.obsidian/
+
+# Ignorar arquivos temporários do LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.tmp
+*.bak
+*.swp
+
+# Ignorar qualquer pasta chamada build em qualquer nível
+**/build/
